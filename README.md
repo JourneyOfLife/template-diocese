@@ -1,6 +1,6 @@
 ---
 
-# gyvenimo-kelias-template-diocese
+# template-diocese
 
 This repository hosts the **Journey Of Life** Diocese website template—built on Bitrix24 CRM Sites & Stores—to accelerate deployment of GDPR-compliant, multilingual diocesan sites with parish directories, bishop communications, events, and donations.
 
